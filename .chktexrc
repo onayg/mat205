@@ -1,0 +1,5 @@
+# Suppress ChkTeX warning 46: "Use \(...\) instead of $...$"
+CmdLine
+{
+    -n46
+}

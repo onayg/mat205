@@ -1,0 +1,8 @@
+{
+    "latex-workshop.linting.chktex.enabled": false,
+    "latex-workshop.linting.lacheck.enabled": false,
+    "cSpell.enabled": false,
+    "editor.spelling.enabled": false,
+    "latex-workshop.message.badbox.show": false,
+    "latex-workshop.message.warning.show": false
+}
