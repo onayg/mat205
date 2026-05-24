@@ -20,7 +20,7 @@ Année académique 2025–2026
 | S3 | Idéaux, quotients, idéaux premiers et maximaux | S10 | Extensions de corps, degré |
 | S4 | Homomorphismes, théorèmes d'isomorphisme **(Q1)** | S11 | Extensions algébriques, polynôme minimal |
 | S5 | Anneaux de polynômes, division, racines | S12 | Corps finis : construction, unicité **(Q2)** |
-| S6 | Irréductibilité, critère d'Eisenstein | S13 | Structure des corps finis, 𝔽ₑˣ cyclique |
+| S6 | Irréductibilité  | S13 | Structure des corps finis, 𝔽ₑˣ cyclique |
 | S7 | Révision | S14 | Applications et révision |
 
 ## Évaluation
@@ -53,4 +53,3 @@ Les notes de cours, résumés et TD seront déposés dans ce dépôt au fur et �
 
 - Présence obligatoire (minimum 70% des séances)
 - Les quiz n'ont pas de rattrapage ; le coefficient est reporté sur le partiel
-- Anonymat : chaque copie doit mentionner uniquement le numéro d'inscription
